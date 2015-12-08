@@ -1,0 +1,56 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+h1, h3{
+	margin: 20px 0;
+}
+
+button{
+display: block;
+margin: 10px auto;
+font-size: 1em;
+padding: 3px;
+color: white;
+border-radius: 4px;
+}
+
+#wrapper{
+	width: 568px;
+	margin: 0 auto;
+	text-align: center;
+	color: dimgray;
+}
+
+#red{
+	display: inline-block;
+	width: 230px;
+	margin: 0 auto;
+	padding: 100px 25px;
+	background-color: indianred;
+	color: white;
+	border-radius: 10px;
+}
+
+#green{
+	display: inline-block;
+	width: 230px;
+	margin: 0 auto;
+	padding: 100px 25px;
+	background-color: yellowgreen;
+	color: white;
+	border-radius: 10px;
+}
+
+#orange{
+	display: inline-block;
+	width: 230px;
+	margin: 0 auto;
+	padding: 100px 25px;
+	background-color: sandybrown;
+	color: white;
+	border-radius: 10px;
+
+}
